@@ -388,11 +388,13 @@ h1,h2,h3,h4,h5
         color: black;
         font-weight: bold;
         transition: all 0.4s ease-in-out;
+	    font-family: 'Indie Flower', cursive;
     }
 #contact input[type="submit"]:hover
     {
         background: #6f4a8e;
         color: white;
+	    font-family: 'Nanum Pen Script', cursive;
     }
 /* end contact */
 
